@@ -1,5 +1,11 @@
 # **Fourth project in Web Developer path on OpenClassrooms** 
+
+## **Optimize an Existing Website**
+<br>
+
 [![image](https://raw.githubusercontent.com/phos23/BartoszSwiderski_4_10222020_A/master/img/atlanta%20web%20design%20logo.png)](https://phos23.github.io/BartoszSwiderski_4_10222020_A/)
+<br>
+
 ## **Practical project demonstrating techniques used for SEO and accessibility improvement of an existing website**
 The existing page has issues in it's structure:
 * loads slowly
