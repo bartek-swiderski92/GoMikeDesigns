@@ -12,6 +12,14 @@ The existing page has issues in it's structure:
 * results poorly in accessibility 
 * uses black-hat SEO techniques
 * structure of the website isn't properly designed (headings, missing sections etc.)
+
+### The project reviews following skills:
+* Optimizes the size and speed of a website
+* Researches web development best practices
+* Ensures the accessibility of a website according to WCAG2.0
+* Writes current, maintainable code in HTML & CSS
+* Analyzes the search engine performance of a website
+
 ### The project is based on below scenario:
 <br>  
 
