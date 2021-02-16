@@ -1,7 +1,11 @@
 # **Fourth project in Web Developer path on OpenClassrooms** 
 [![image](https://raw.githubusercontent.com/phos23/BartoszSwiderski_4_10222020_A/master/img/atlanta%20web%20design%20logo.png)](https://phos23.github.io/BartoszSwiderski_4_10222020_A/)
 ## **Practical project demonstrating techniques used for SEO and accessibility improvement of an existing website**
-
+The existing page has issues in it's structure:
+* loads slowly
+* results poorly in accessibility 
+* uses black-hat SEO techniques
+* structure of the website isn't properly designed (headings, missing sections etc.)
 ### The project is based on below scenario:
 <br>  
 
