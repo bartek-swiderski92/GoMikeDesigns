@@ -57,5 +57,5 @@ The existing page has issues in it's structure:
 ### [Lighthouse records](https://github.com/phos23/BartoszSwiderski_4_10222020_A/tree/master/lighthouse-reports) show before and after results, for each page in desktop and mobile mode
 <br>
 
-<a href="https://phos23.github.io/BartoszSwiderski_4_10222020_A/">Click here to see the preview of the website</a>
+<a href="https://bartek-swiderski92.github.io/GoMikeDesigns/">Click here to see the preview of the website</a>
 
