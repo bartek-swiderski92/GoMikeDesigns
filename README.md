@@ -7,7 +7,7 @@
 <br>
 
 ## **Practical project demonstrating techniques used for SEO and accessibility improvement of an existing website**
-The existing page has issues in it's structure:
+The existing page has following issues in it's structure:
 * loads slowly
 * results poorly in accessibility 
 * uses black-hat SEO techniques
