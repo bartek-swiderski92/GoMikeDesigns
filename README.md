@@ -3,7 +3,7 @@
 ## **Optimize an Existing Website**
 <br>
 
-[![image](https://raw.githubusercontent.com/phos23/BartoszSwiderski_4_10222020_A/master/img/atlanta%20web%20design%20logo.png)](https://phos23.github.io/BartoszSwiderski_4_10222020_A/)
+[![image](https://github.com/bartek-swiderski92/GoMikeDesigns/blob/master/img/atlanta%20web%20design%20logo_bg.png?raw=true)
 <br>
 
 ## **Practical project demonstrating techniques used for SEO and accessibility improvement of an existing website**
