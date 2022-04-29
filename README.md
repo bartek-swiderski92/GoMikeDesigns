@@ -54,7 +54,22 @@ The existing page has following issues in it's structure:
 ### The improvement process of both, SEO and accessibility has been recorded in [the SEO Audit.](https://github.com/phos23/BartoszSwiderski_4_10222020_A/blob/master/Template-SEO-audit.xlsx)
 <br>
 
-### [Lighthouse records](https://github.com/phos23/BartoszSwiderski_4_10222020_A/tree/master/lighthouse-reports) show before and after results, for each page in desktop and mobile mode
+### Before and after Lighthouse results
+![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/mobile.png)
+![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/mobile-contact.png)
+![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/desktop.png)
+![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/desktop-contact.png)
+
+<div>
+<img width="49%" src="https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/mobile.png" />&nbsp;&nbsp;
+<img width="49%" src="https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/mobile-contact.png" />&nbsp;&nbsp;
+</div>
+<div>
+<img width="49%" src="https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/desktop.png" />&nbsp;&nbsp;
+<img width="49%" src="https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/desktop-contact.png" />&nbsp;&nbsp;
+</div>
+
+### [Detailed Lighthouse records](https://github.com/phos23/BartoszSwiderski_4_10222020_A/tree/master/lighthouse-reports) show before and after results, for each page in desktop and mobile mode
 <br>
 
 <a href="https://bartek-swiderski92.github.io/GoMikeDesigns/">Click here to see the preview of the website</a>
