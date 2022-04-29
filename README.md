@@ -55,10 +55,10 @@ The existing page has following issues in it's structure:
 <br>
 
 ### Before and after Lighthouse results
-![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/mobile.png)
-![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/mobile-contact.png)
-![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/desktop.png)
-![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/desktop-contact.png)
+// ![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/mobile.png)
+// ![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/mobile-contact.png)
+// ![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/desktop.png)
+// ![image](https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/desktop-contact.png)
 
 <div>
 <img width="49%" src="https://raw.githubusercontent.com/bartek-swiderski92/GoMikeDesigns/master/snips/mobile.png" />&nbsp;&nbsp;
