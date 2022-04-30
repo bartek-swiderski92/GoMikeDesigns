@@ -1,4 +1,4 @@
-# **Fourth project in Web Developer path on OpenClassrooms** 
+# **GoMikeDesigns** 
 
 ## **Optimize an Existing Website**
 <br>
