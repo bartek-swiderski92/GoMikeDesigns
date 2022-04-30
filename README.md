@@ -1,7 +1,5 @@
 ![image](https://github.com/bartek-swiderski92/GoMikeDesigns/blob/master/img/atlanta%20web%20design%20logo_bg.png?raw=true)
 
-<br>
-
 # **Practical project demonstrating techniques used for SEO and accessibility improvement of an existing website**
 <p>
         <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
