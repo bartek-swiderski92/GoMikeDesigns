@@ -1,7 +1,13 @@
 ![image](https://github.com/bartek-swiderski92/GoMikeDesigns/blob/master/img/atlanta%20web%20design%20logo_bg.png?raw=true)
+
 <br>
 
 # **Practical project demonstrating techniques used for SEO and accessibility improvement of an existing website**
+<p>
+        <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+</p>
 The existing page has following issues in it's structure:
 * loads slowly
 * results poorly in accessibility 
