@@ -1,12 +1,7 @@
-# **GoMikeDesigns** 
-
-## **Optimize an Existing Website**
-<br>
-
 ![image](https://github.com/bartek-swiderski92/GoMikeDesigns/blob/master/img/atlanta%20web%20design%20logo_bg.png?raw=true)
 <br>
 
-## **Practical project demonstrating techniques used for SEO and accessibility improvement of an existing website**
+# **Practical project demonstrating techniques used for SEO and accessibility improvement of an existing website**
 The existing page has following issues in it's structure:
 * loads slowly
 * results poorly in accessibility 
